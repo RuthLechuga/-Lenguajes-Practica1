@@ -1,0 +1,17 @@
+<valla>
+	<empresa>EM#E?¿&TRAGUATEMALA</empresa>
+	<fondo>
+		<tamanio>
+			<horizontal>19</horizontal>
+			<vertical>11</vertical>
+		<tamanio>
+	</fondo>
+	<pixel>
+		<posicionx>5</posicionx>
+		<posiciony>2</posiciony>
+	</pixel>
+	<pixel>
+		<posicionx>18</posicionx>
+		<posiciony>5</posiciony>
+	</pixel>
+</valla>

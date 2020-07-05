@@ -1,0 +1,228 @@
+<valla>
+<empresa>EM#E?¿&TRAGUATEMALA</empresa>
+<fondo>
+<tamanio>
+<horizontal>20</horizontal>
+<vertical>20</vertical>
+</tamanio>
+</fondo>
+
+<pixel> 
+<posicionx> 20 </posicionx>
+<posiciony> 20 </posiciony>
+<color> rojo </color>
+</pixel>
+
+<pixel>
+<posicionx> 19 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 18 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 17 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 16 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 15 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 14 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 13 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 12 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 11 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 10 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 9 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 8 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 7 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 6 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 5 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 4 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 3 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 2 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 20 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 19 </posiciony>
+<color> rojo </color>
+</pixel>
+
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 18 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 17 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 16 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 15 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 14 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 13 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 12 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 11 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 10 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 9 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 8 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 7 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 6 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 5 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 4 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 3 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 2 </posiciony> 
+<color> rojo </color> 
+</pixel>
+<pixel>
+<posicionx> 1 </posicionx>
+<posiciony> 1 </posiciony> 
+<color> rojo </color> 
+</pixel>
+
+</valla>

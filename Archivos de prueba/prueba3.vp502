@@ -1,0 +1,136 @@
+<valla>
+<empresa>EM#E?¿&TRAGUATEMALA</empresa>
+<fondo>
+<tamanio>
+<horizontal>10</horizontal>
+<vertical>10</vertical>
+</tamanio>
+<color> azul </color>
+</fondo>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>2</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>3</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>4</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>5</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>6</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>7</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>1</posicionx>
+<posiciony>8</posiciony>
+<color> amarillo </color> 
+</pixel>
+
+<pixel>
+<posicionx>2</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>3</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>4</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>5</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>6</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>7</posicionx>
+<posiciony>5</posiciony>
+<color> rojo </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>1</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>2</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>3</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>4</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>5</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>6</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>7</posiciony>
+<color> verde </color> 
+</pixel>
+
+<pixel>
+<posicionx>8</posicionx>
+<posiciony>8</posiciony>
+<color> verde </color> 
+</pixel>
+</valla>

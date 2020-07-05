@@ -1,0 +1,299 @@
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\ruth lechuga\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TablaSimbolos.resources
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.TablaErrores.resources
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.visualizarValla.resources
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\EnvDTE80.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\VSLangProj.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\VSLangProj80.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\VSLangProj2.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Ruth Lechuga\Desktop\Practica #1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.WindowsFormsApp1.exe.config
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\EnvDTE80.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\VSLangProj.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\VSLangProj80.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\VSLangProj2.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.WindowsFormsApp1.exe.config
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.TablaErrores.resources
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TablaSimbolos.resources
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.visualizarValla.resources
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ruth Lechuga\Desktop\PRACTICA 1 LENGUAJES\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.TablaErrores.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TablaSimbolos.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Formas.visualizarValla.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LFP]Practica_201602975\Codigo fuente\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
